@@ -28,7 +28,7 @@ TCL and the Tkinter Python module are required to make use of the eggdrop plugin
 
 == Get the source ==
 
-The source is available from the SVN repository at svn://netflint.net/sleekxmpp. To fetch it, run the following command:
+The source is available from the SVN repository at svn://netflint.net/sleekbot. To fetch it, run the following command:
 {{{
 svn co svn://netflint.net/sleekxmpp
 }}}
